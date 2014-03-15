@@ -247,7 +247,7 @@ inline void b2Contact::SetEnabled(bool flag)
 	}
 	else
 	{
-		m_flags &= ~e_enabledFlag;
+		m_flags &= ~static_cast<uint32>(e_enabledFlag);
 	}
 }
 
