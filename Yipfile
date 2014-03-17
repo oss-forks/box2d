@@ -2,6 +2,7 @@
 public_headers
 {
 	Box2D/Box2D/Box2D.h
+	Box2D/Box2D/Common/b2Draw.h
 }
 
 sources
@@ -31,7 +32,6 @@ sources
 	Box2D/Box2D/Common/b2BlockAllocator.cpp
 	Box2D/Box2D/Common/b2BlockAllocator.h
 	Box2D/Box2D/Common/b2Draw.cpp
-	Box2D/Box2D/Common/b2Draw.h
 	Box2D/Box2D/Common/b2GrowableStack.h
 	Box2D/Box2D/Common/b2Math.cpp
 	Box2D/Box2D/Common/b2Math.h
