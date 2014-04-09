@@ -22,6 +22,7 @@ public_headers
 {
 	Box2D/Box2D/Box2D.h
 	Box2D/Box2D/Common/b2Draw.h
+	box2d.h
 }
 
 sources
