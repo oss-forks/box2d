@@ -18,6 +18,7 @@
 
 #include "b2DynamicTree.h"
 #include <memory.h>
+#include <cstring>
 
 b2DynamicTree::b2DynamicTree()
 {

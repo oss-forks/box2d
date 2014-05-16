@@ -20,6 +20,7 @@
 #include "b2EdgeShape.h"
 #include <new>
 #include <memory.h>
+#include <cstring>
 
 b2ChainShape::~b2ChainShape()
 {
